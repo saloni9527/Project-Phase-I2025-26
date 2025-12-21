@@ -1,0 +1,114 @@
+{
+    "teacher_id": "694060500b16fc53a38f31f8",
+    "teacher_name": "Khushbu Pande",
+    "student_name": "Khushbu Pande",
+    "student_id": "2221271242018",
+    "exam_title": "Midsem",
+    "num_questions": 5,
+    "marks_per_question": 3.0,
+    "timestamp": "2025-12-16 01:22:31",
+    "evaluation_results": {
+        "q1": {
+            "extracted_text": ": I@S_ 8) Nhat do you mean by scaling @ cloud | \u2014-\n~ |__infrastrudure 7 Oiscuss AL\n; i Answer: _ - aoe",
+            "model_answer": ": I@S_ 8) Nhat do you mean by scaling @ cloud | \u2014-\n~ |__infrastrudure 7 Oiscuss AL\n; i Answer: _ - aoe",
+            "score": 3.0,
+            "max_score": 3.0,
+            "feedback": "\u2713 Excellent answer! You've covered the main points well. Your answer aligns very well with the expected response.",
+            "matched_keywords": [
+                "scaling",
+                "cloud",
+                "|__infrastrudure",
+                "Oiscuss",
+                "Answer:"
+            ],
+            "total_keywords": 5,
+            "keyword_ratio": 1.0,
+            "all_keywords": [
+                "scaling",
+                "cloud",
+                "|__infrastrudure",
+                "Oiscuss",
+                "Answer:"
+            ]
+        },
+        "q2": {
+            "extracted_text": "_ le Pros: simple implementation . \u2014",
+            "model_answer": "_ le Pros: simple implementation . \u2014",
+            "score": 3.0,
+            "max_score": 3.0,
+            "feedback": "\u2713 Excellent answer! You've covered the main points well. Your answer aligns very well with the expected response.",
+            "matched_keywords": [
+                "Pros:",
+                "simple",
+                "implementation"
+            ],
+            "total_keywords": 3,
+            "keyword_ratio": 1.0,
+            "all_keywords": [
+                "Pros:",
+                "simple",
+                "implementation"
+            ]
+        },
+        "q3": {
+            "extracted_text": "iL 2. Hovizental Scaling s Adds move. servers Ai\n\" | - Pros \u00bb Highly scalable - \u201cay \"",
+            "model_answer": "iL 2. Hovizental Scaling s Adds move. servers Ai\n\" | - Pros \u00bb Highly scalable - \u201cay \"",
+            "score": 3.0,
+            "max_score": 3.0,
+            "feedback": "\u2713 Excellent answer! You've covered the main points well. Your answer aligns very well with the expected response.",
+            "matched_keywords": [
+                "Hovizental",
+                "Scaling",
+                "move.",
+                "servers",
+                "Highly"
+            ],
+            "total_keywords": 5,
+            "keyword_ratio": 1.0,
+            "all_keywords": [
+                "Hovizental",
+                "Scaling",
+                "move.",
+                "servers",
+                "Highly"
+            ]
+        },
+        "q4": {
+            "extracted_text": ": io Pros \u00a2 SOsr epg et\u201d ou\n\n7 wapack of poor capacity planning : EC\n: | ~ Under -provisioning + slow performance a\n\u2018i l= Me  aute- scaling Unable +o handle. \u00abtabRe dl",
+            "model_answer": ": io Pros \u00a2 SOsr epg et\u201d ou\n\n7 wapack of poor capacity planning : EC\n: | ~ Under -provisioning + slow performance a\n\u2018i l= Me  aute- scaling Unable +o handle. \u00abtabRe dl",
+            "score": 2.64,
+            "max_score": 3.0,
+            "feedback": "\u2713 Excellent answer! You've covered the main points well. Missing key concepts: Under. Your answer aligns very well with the expected response.",
+            "matched_keywords": [
+                "wapack",
+                "capacity",
+                "planning",
+                "-provisioning"
+            ],
+            "total_keywords": 5,
+            "keyword_ratio": 0.8,
+            "all_keywords": [
+                "wapack",
+                "capacity",
+                "planning",
+                "Under",
+                "-provisioning"
+            ]
+        },
+        "q5": {
+            "extracted_text": "i\nein\nPo",
+            "model_answer": "i\nein\nPo",
+            "score": 1.2,
+            "max_score": 3.0,
+            "feedback": "\u25b3 Your answer is partially correct. Your answer aligns very well with the expected response.",
+            "matched_keywords": [],
+            "total_keywords": 0,
+            "keyword_ratio": 0,
+            "all_keywords": []
+        }
+    },
+    "total_score": 12.84,
+    "max_score": 15.0,
+    "percentage": 85.6,
+    "report_filename": "report_2221271242018_20251216012231.pdf"
+}

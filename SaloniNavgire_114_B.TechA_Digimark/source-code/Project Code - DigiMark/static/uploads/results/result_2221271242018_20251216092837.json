@@ -1,0 +1,79 @@
+{
+    "teacher_id": "694060500b16fc53a38f31f8",
+    "teacher_name": "Khushbu Pande",
+    "student_name": "Khushbu Pande",
+    "student_id": "2221271242018",
+    "exam_title": "Midsem",
+    "question_pattern": [
+        {
+            "question_id": "Q.1",
+            "total_sub_questions": 6,
+            "can_solve": 6,
+            "marks_per_question": 1,
+            "type": "MCQ",
+            "total_marks": 6
+        },
+        {
+            "question_id": "Q.2",
+            "total_sub_questions": 3,
+            "can_solve": 2,
+            "marks_per_question": 3,
+            "type": "Short Answer",
+            "total_marks": 6
+        },
+        {
+            "question_id": "Q.3",
+            "total_sub_questions": 2,
+            "can_solve": 1,
+            "marks_per_question": 8,
+            "type": "Long Answer",
+            "total_marks": 8
+        }
+    ],
+    "timestamp": "2025-12-16 09:28:37",
+    "evaluation_results": {
+        "Q.1": {
+            "extracted_text": "",
+            "model_answer": "",
+            "score": 0,
+            "max_score": 6,
+            "feedback": "No answer provided.",
+            "matched_keywords": [],
+            "total_keywords": 0,
+            "keyword_ratio": 0,
+            "all_keywords": [],
+            "question_type": "MCQ",
+            "question_details": "6 questions, solve 6, 1 marks each"
+        },
+        "Q.2": {
+            "extracted_text": "",
+            "model_answer": "",
+            "score": 0,
+            "max_score": 6,
+            "feedback": "No answer provided.",
+            "matched_keywords": [],
+            "total_keywords": 0,
+            "keyword_ratio": 0,
+            "all_keywords": [],
+            "question_type": "Short Answer",
+            "question_details": "3 questions, solve 2, 3 marks each"
+        },
+        "Q.3": {
+            "extracted_text": "",
+            "model_answer": "",
+            "score": 0,
+            "max_score": 8,
+            "feedback": "No answer provided.",
+            "matched_keywords": [],
+            "total_keywords": 0,
+            "keyword_ratio": 0,
+            "all_keywords": [],
+            "question_type": "Long Answer",
+            "question_details": "2 questions, solve 1, 8 marks each"
+        }
+    },
+    "total_score": 0,
+    "max_score": 20.0,
+    "percentage": 0.0,
+    "report_filename": "report_2221271242018_20251216092837.pdf"
+}

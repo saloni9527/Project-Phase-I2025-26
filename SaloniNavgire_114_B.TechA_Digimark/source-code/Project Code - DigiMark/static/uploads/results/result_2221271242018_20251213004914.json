@@ -1,0 +1,43 @@
+{
+    "student_name": "Khushbu Pande",
+    "student_id": "2221271242018",
+    "exam_title": "Midsem",
+    "timestamp": "2025-12-13 00:49:14",
+    "evaluation_results": {
+        "q1": {
+            "extracted_text": ": 19S _ %) What do you mean by scaling @ cloud ~ ie .\nws L. infrastrudure Z Oiscuss, i gf ;\n|e Pros: simple implementation _ 2\n_ iL 2. Hovizontal Scaling s Adds more server's oe\n| - Pyos. \u00a9 H ight y Scalable, : i ;\nL L_ fone = DSkiseee load Kaloweines : a",
+            "score": 3.6,
+            "max_score": 10,
+            "feedback": "Your answer is missing key concepts: infrastructure?, Discuss..., Answer:. Your answer differs significantly from the expected response.",
+            "matched_keywords": [
+                "scaling",
+                "cloud"
+            ],
+            "keywords": [
+                "scaling",
+                "cloud",
+                "infrastructure?",
+                "Discuss...",
+                "Answer:"
+            ]
+        },
+        "q2": {
+            "extracted_text": "_ is. Auto- scaling : Automatically adjust yesources E |\n\n~ fetools s AWS \u201cAuto Sealing , Azure, ee\n\n: : GD : ay\n\n: | - Under -provisioning + slow peryPormance: a\n\n- - OVer provisioning \u201c\u00bbtasted cost. i\n\n\u2018i l= Me  aute- scaling Unable +o handle. \u00abtabRe dl\n\u201ca We",
+            "score": 1.7,
+            "max_score": 10,
+            "feedback": "Your answer is missing key concepts: TELUS,, OVEIAU, Cons:, Requires, balancing.... Your answer partially addresses the question.",
+            "matched_keywords": [],
+            "keywords": [
+                "TELUS,",
+                "OVEIAU",
+                "Cons:",
+                "Requires",
+                "balancing..."
+            ]
+        }
+    },
+    "total_score": 5.3,
+    "max_score": 20,
+    "percentage": 26.5,
+    "report_filename": "report_2221271242018_20251213004914.pdf"
+}

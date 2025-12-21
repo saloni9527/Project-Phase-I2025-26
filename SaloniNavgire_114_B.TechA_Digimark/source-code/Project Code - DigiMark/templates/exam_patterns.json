@@ -1,0 +1,49 @@
+{
+  "Cloud Computing": {
+    "exam_title": "Cloud Computing Mid Semester Exam",
+    "total_marks": 30,
+    "questions": [
+      {
+        "question_id": "Q.1",
+        "type": "MCQ",
+        "description": "Answer the following questions",
+        "total_sub_questions": 6,
+        "marks_per_question": 1,
+        "can_solve": 6,
+        "keywords": [
+          ["essential characteristics", "resource pooling", "measured service"],
+          ["google docs", "saas", "paas"],
+          ["virtualization", "benefits", "creation", "integration"],
+          ["hypervisor", "virtual machine monitor"],
+          ["horizontal scaling", "vertical scaling", "workload"],
+          ["distributed system", "data intensive", "computing intensive"]
+        ]
+      },
+      {
+        "question_id": "Q.2",
+        "type": "Short Answer",
+        "description": "Solve any TWO from the following",
+        "total_sub_questions": 3,
+        "marks_per_question": 3,
+        "can_solve": 2,
+        "keywords": [
+          ["virtualization", "types", "hypervisor", "containers"],
+          ["iaas", "paas", "saas", "e-commerce", "service"],
+          ["horizontal", "vertical", "scaling", "infrastructure"]
+        ]
+      },
+      {
+        "question_id": "Q.3",
+        "type": "Long Answer",
+        "description": "Solve any ONE from the following",
+        "total_sub_questions": 2,
+        "marks_per_question": 8,
+        "can_solve": 1,
+        "keywords": [
+          ["hybrid cloud", "healthcare", "privacy", "scalability", "security"],
+          ["migration", "challenges", "requirements", "decision factors", "cloud models"]
+        ]
+      }
+    ]
+  }
+}

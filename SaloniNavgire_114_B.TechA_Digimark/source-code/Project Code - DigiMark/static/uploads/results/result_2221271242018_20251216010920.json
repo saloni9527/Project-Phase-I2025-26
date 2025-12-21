@@ -1,0 +1,62 @@
+{
+    "teacher_id": "694060500b16fc53a38f31f8",
+    "teacher_name": "Khushbu Pande",
+    "student_name": "Khushbu Pande",
+    "student_id": "2221271242018",
+    "exam_title": "Midsem",
+    "num_questions": 2,
+    "marks_per_question": 1.0,
+    "timestamp": "2025-12-16 01:09:20",
+    "evaluation_results": {
+        "q1": {
+            "extracted_text": ": 19S _ %) What do you mean by scaling @ cloud ~ ie .\nws L. infrastrudure Z Oiscuss, i gf ;\n|e Pros: simple implementation _ 2\n_ iL 2. Hovizontal Scaling s Adds more server's oe\n| - Pyos. \u00a9 H ight y Scalable, : i ;\nL L_ fone = DSkiseee load Kaloweines : a",
+            "model_answer": ": 19S _ %) What do you mean by scaling @ cloud ~ ie .\nws L. infrastrudure Z Oiscuss, i gf ;\n|e Pros: simple implementation _ 2\n_ iL 2. Hovizontal Scaling s Adds more server's oe\n| - Pyos. \u00a9 H ight y Scalable, : i ;\nL L_ fone = DSkiseee load Kaloweines : a",
+            "score": 1.0,
+            "max_score": 1.0,
+            "feedback": "\u2713 Excellent answer! You've covered the main points well. Your answer aligns very well with the expected response.",
+            "matched_keywords": [
+                "scaling",
+                "cloud",
+                "infrastrudure",
+                "Oiscuss,",
+                "Pros:"
+            ],
+            "total_keywords": 5,
+            "keyword_ratio": 1.0,
+            "all_keywords": [
+                "scaling",
+                "cloud",
+                "infrastrudure",
+                "Oiscuss,",
+                "Pros:"
+            ]
+        },
+        "q2": {
+            "extracted_text": "_ is. Auto- scaling : Automatically adjust yesources E |\n\n~ fetools s AWS \u201cAuto Sealing , Azure, ee\n\n: : GD : ay\n\n: | - Under -provisioning + slow peryPormance: a\n\n- - OVer provisioning \u201c\u00bbtasted cost. i\n\n\u2018i l= Me  aute- scaling Unable +o handle. \u00abtabRe dl\n\u201ca We",
+            "model_answer": "_ is. Auto- scaling : Automatically adjust yesources E |\n\n~ fetools s AWS \u201cAuto Sealing , Azure, ee\n\n: : GD : ay\n\n: | - Under -provisioning + slow peryPormance: a\n\n- - OVer provisioning \u201c\u00bbtasted cost. i\n\n\u2018i l= Me  aute- scaling Unable +o handle. \u00abtabRe dl\n\u201ca We",
+            "score": 1.0,
+            "max_score": 1.0,
+            "feedback": "\u2713 Excellent answer! You've covered the main points well. Your answer aligns very well with the expected response.",
+            "matched_keywords": [
+                "Auto-",
+                "scaling",
+                "Automatically",
+                "adjust",
+                "yesources"
+            ],
+            "total_keywords": 5,
+            "keyword_ratio": 1.0,
+            "all_keywords": [
+                "Auto-",
+                "scaling",
+                "Automatically",
+                "adjust",
+                "yesources"
+            ]
+        }
+    },
+    "total_score": 2.0,
+    "max_score": 2.0,
+    "percentage": 100.0,
+    "report_filename": "report_2221271242018_20251216010920.pdf"
+}

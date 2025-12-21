@@ -1,0 +1,66 @@
+{
+    "student_name": "Khushbu Pande",
+    "student_id": "2221271242018",
+    "exam_title": "Midsem",
+    "timestamp": "2025-12-13 00:37:57",
+    "evaluation_results": {
+        "q1": {
+            "extracted_text": "a | _infrastrudure 2 olscuss, a 2 ;",
+            "score": 10.0,
+            "max_score": 10,
+            "feedback": "Your answer aligns well with the expected response.",
+            "matched_keywords": [
+                "_infrastrudure",
+                "olscuss,"
+            ],
+            "keywords": [
+                "_infrastrudure",
+                "olscuss,"
+            ]
+        },
+        "q2": {
+            "extracted_text": "fe dons Limited by hardware . ~ A .\n; 2. Horizontal Scaling: Adds move. server's a\n: i ~Us\u00e9 case: Web servers, stateless APIs er\n: | - Cros.\u00bb Highly scalable. 7 aL.\n: [- Cone: Requires load beilancing 7\n: ls. Auto- scaling : Autometcatly odjust esources an\n\n-_ | Tools \u00abAWS \u201cAuto sealing , Azure, no\n4 ie Pros \u00a2 Cost efficient = ; ay",
+            "score": 10.0,
+            "max_score": 10,
+            "feedback": "Your answer aligns well with the expected response.",
+            "matched_keywords": [
+                "Limited",
+                "hardware",
+                "Horizontal",
+                "Scaling:",
+                "move."
+            ],
+            "keywords": [
+                "Limited",
+                "hardware",
+                "Horizontal",
+                "Scaling:",
+                "move."
+            ]
+        },
+        "q3": {
+            "extracted_text": ": | ~ Under -provisioning + slow peryPormance: Et\na: lle No auto- scaling stnable do handle vakBe |",
+            "score": 10.0,
+            "max_score": 10,
+            "feedback": "Your answer aligns well with the expected response.",
+            "matched_keywords": [
+                "-provisioning",
+                "peryPormance:",
+                "auto-",
+                "scaling",
+                "stnable"
+            ],
+            "keywords": [
+                "-provisioning",
+                "peryPormance:",
+                "auto-",
+                "scaling",
+                "stnable"
+            ]
+        }
+    },
+    "total_score": 30.0,
+    "max_score": 30,
+    "percentage": 100.0,
+    "report_filename": "report_2221271242018_20251213003757.pdf"
+}

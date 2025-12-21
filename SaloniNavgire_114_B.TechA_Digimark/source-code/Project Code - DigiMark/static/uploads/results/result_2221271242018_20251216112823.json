@@ -1,0 +1,105 @@
+{
+    "teacher_id": "694060500b16fc53a38f31f8",
+    "teacher_name": "Khushbu Pande",
+    "student_name": "Khushbu Pande",
+    "student_id": "2221271242018",
+    "exam_title": "Midsem",
+    "question_pattern": [
+        {
+            "question_id": "Q.1",
+            "total_sub_questions": 6,
+            "can_solve": 6,
+            "marks_per_question": 1,
+            "type": "MCQ",
+            "total_marks": 6
+        },
+        {
+            "question_id": "Q.2",
+            "total_sub_questions": 3,
+            "can_solve": 2,
+            "marks_per_question": 3,
+            "type": "Short Answer",
+            "total_marks": 6
+        },
+        {
+            "question_id": "Q.3",
+            "total_sub_questions": 2,
+            "can_solve": 1,
+            "marks_per_question": 8,
+            "type": "Long Answer",
+            "total_marks": 8
+        }
+    ],
+    "timestamp": "2025-12-16 11:28:23",
+    "evaluation_results": {
+        "q1": {
+            "extracted_text": "a | _infrastrudure 2 olscuss, a 2 ;",
+            "model_answer": "a | _infrastrudure 2 olscuss, a 2 ;",
+            "score": 1.0,
+            "max_score": 1,
+            "feedback": "\u2713 Excellent answer! You've covered the main points well. Your answer aligns very well with the expected response.",
+            "matched_keywords": [
+                "_infrastrudure",
+                "olscuss,"
+            ],
+            "total_keywords": 2,
+            "keyword_ratio": 1.0,
+            "all_keywords": [
+                "_infrastrudure",
+                "olscuss,"
+            ],
+            "question_pattern": {}
+        },
+        "q2": {
+            "extracted_text": "fe dons Limited by hardware . ~ A .\n; 2. Horizontal Scaling: Adds move. server's a\n: i ~Us\u00e9 case: Web servers, stateless APIs er\n: | - Cros.\u00bb Highly scalable. 7 aL.\n: [- Cone: Requires load beilancing 7\n: ls. Auto- scaling : Autometcatly odjust esources an\n\n-_ | Tools \u00abAWS \u201cAuto sealing , Azure, no\n4 ie Pros \u00a2 Cost efficient = ; ay",
+            "model_answer": "fe dons Limited by hardware . ~ A .\n; 2. Horizontal Scaling: Adds move. server's a\n: i ~Us\u00e9 case: Web servers, stateless APIs er\n: | - Cros.\u00bb Highly scalable. 7 aL.\n: [- Cone: Requires load beilancing 7\n: ls. Auto- scaling : Autometcatly odjust esources an\n\n-_ | Tools \u00abAWS \u201cAuto sealing , Azure, no\n4 ie Pros \u00a2 Cost efficient = ; ay",
+            "score": 1.0,
+            "max_score": 1,
+            "feedback": "\u2713 Excellent answer! You've covered the main points well. Your answer aligns very well with the expected response.",
+            "matched_keywords": [
+                "Limited",
+                "hardware",
+                "Horizontal",
+                "Scaling:",
+                "move."
+            ],
+            "total_keywords": 5,
+            "keyword_ratio": 1.0,
+            "all_keywords": [
+                "Limited",
+                "hardware",
+                "Horizontal",
+                "Scaling:",
+                "move."
+            ],
+            "question_pattern": {}
+        },
+        "q3": {
+            "extracted_text": ": | ~ Under -provisioning + slow peryPormance: Et\na: lle No auto- scaling stnable do handle vakBe |",
+            "model_answer": ": | ~ Under -provisioning + slow peryPormance: Et\na: lle No auto- scaling stnable do handle vakBe |",
+            "score": 0.88,
+            "max_score": 1,
+            "feedback": "\u2713 Excellent answer! You've covered the main points well. Missing key concepts: Under. Your answer aligns very well with the expected response.",
+            "matched_keywords": [
+                "-provisioning",
+                "peryPormance:",
+                "auto-",
+                "scaling"
+            ],
+            "total_keywords": 5,
+            "keyword_ratio": 0.8,
+            "all_keywords": [
+                "Under",
+                "-provisioning",
+                "peryPormance:",
+                "auto-",
+                "scaling"
+            ],
+            "question_pattern": {}
+        }
+    },
+    "total_score": 2.88,
+    "max_score": 3,
+    "percentage": 96.0,
+    "report_filename": "report_2221271242018_20251216112823.pdf"
+}
